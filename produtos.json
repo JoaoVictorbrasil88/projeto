@@ -1,0 +1,60 @@
+[  
+    {
+      "id": 1,
+      "name": "Piraquê de chocolate",
+      "description": "Delicioso Biscoito Doce Piraquê sabor chocolate. Embalagem de 160g.",
+      "price": 4.50,
+      "image": "src/assets/piraque.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Choco Biscuit",
+      "description": "O Biscoito Choco Biscuit ao Leite Bauducco é um delicioso biscoito crocante, com sabor intenso de chocolate e leite. Cada pacote contém 36g de biscoitos finamente elaborados com ingredientes de alta qualidade e cuidadosamente selecionados.",
+      "price": 6.00,
+      "image": "src/assets/ChocoBiscuit.jpeg"
+
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Twix",
+      "description": "TWIX® é uma combinação deliciosa de Chocolate, Biscoito e Caramelo! O irresistível sabor do chocolate cremoso, caramelo macio e biscoito crocante em uma combinaão incrível e absurdamente deliciosa para saborear a qualquer momento. ",
+      "price": 1.50,
+      "image": "src/assets/ChocolateTwix.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Chocolate Kinder",
+      "description": "Bateu a fome no meio da tarde? Experimente Kinder Bueno Chocolate ao Leite são duas barrinhas crocantes de wafer, coberto com chocolate ao leite e com um cremoso e delicioso recheio de leite e avelãs que vai te surpreender.",
+      "price": 5.50,
+      "image": "src/assets/ChocolateKinder.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Milka Oreo",
+      "description": " Delicioso chocolate importado com a combinação perfeita do sabor inconfundível do chocolate Milka com super recheio de biscoito Oreo. Aproveite!",
+      "price": 10.20,
+      "image": "src/assets/MilkaOreo.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Lacta",
+      "description": "A perfeita combinação de cacau e leite traz o sabor único para a barra Lacta. Com um formato totalmente exclusivo e a cremosidade certa para que o chocolate derreta lentamente na boca, ele acaba oferecendo uma experiência saborosa e marcante, fazendo com que cada momento delicioso dure mais.",
+      "price": 4.00,
+      "image": "src/assets/ChocolateLacta.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Fini aros de morango",
+      "description": "Bala de gelatina aros morango 90G fini",
+      "price": 3.40,
+      "image": "src/assets/finimorango.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Fini Melancia",
+      "description": "Chicle Melancia Fini, azedinho e em formato idêntico ao de melancia, vermelho por dentro e com bolinhas pretas, iguais as sementes. Perfeito para usar em decorações de mesas de festas e pratos de confeitaria, tornando tudo mais colorido, com um toque único e especial!",
+      "price": 6.00,
+      "image": "src/assets/FiniMelancia.jpeg"
+    }
+ ]
+  
